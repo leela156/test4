@@ -6,4 +6,5 @@ output application/json
 
 
 
-//combining all the values of input into single object by using reduce,pluck,joinBY
+
+//combining all the values of input into single object by using reduce,pluck,joinBy function
